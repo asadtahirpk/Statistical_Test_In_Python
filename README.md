@@ -57,19 +57,19 @@ conda install numpy pandas scipy statsmodels matplotlib seaborn
 
 2. **Launch Jupyter Notebook**
    ```bash
-   jupyter notebook Statistical_Test.ipynb
+   jupyter notebook Statistical_Test_In_Python.ipynb
    ```
 
 3. **Alternative: Run with JupyterLab**
    ```bash
-   jupyter lab Statistical_Test.ipynb
+   jupyter lab Statistical_Test_In_Python.ipynb
    ```
 
 ## 📂 Project Structure
 
 ```
 Statistical_Tests/
-├── Statistical_Test.ipynb    # Main Jupyter Notebook with all implementations
+├── Statistical_Test_In_Python.ipynb    # Main Jupyter Notebook with all implementations
 ├── README.md                # Project Documentation
 ├── requirements.txt         # Package dependencies                  
     └── ...
