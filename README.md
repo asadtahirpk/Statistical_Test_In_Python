@@ -12,6 +12,7 @@ This repository contains comprehensive hands-on practice of **parametric** and *
 - **Pearson Correlation** - Measure linear correlation between variables
 - **Simple Linear Regression** - Model relationship between two variables
 - **Multiple Linear Regression** - Model relationship with multiple predictors
+- **Logistic Regression** -Predict Categorical Variable
 
 ### Non-Parametric Tests
 - **Chi-Square Test** - Goodness of Fit & Test of Independence
@@ -29,6 +30,7 @@ This repository contains comprehensive hands-on practice of **parametric** and *
   - `pandas` - Data manipulation and analysis
   - `scipy` - Statistical functions
   - `statsmodels` - Statistical modeling
+  - `skitlearn` -Machine Learning Library
 - **Visualization:**
   - `matplotlib` - Basic plotting
   - `seaborn` - Statistical data visualization
